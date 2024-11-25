@@ -1,0 +1,7 @@
+Data science is a multidisciplinary field that uses data analysis to extract insights that can help guide business decisions. It combines principles and practices from many fields, including:
+Mathematics, Statistics, Artificial intelligence (AI), Computer engineering, Programming, Analytics, and Machine learning. 
+Data scientists use a variety of skills and tools to analyze data, including:
+Programming languages like R and Python
+Technical tools like Apache Hadoop, MapReduce, and Apache Spark
+NoSQL databases
+Cloud computing 
